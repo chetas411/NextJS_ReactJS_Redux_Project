@@ -1,1 +1,2 @@
-# NextJS_ReactJS_Redux_Project
+# The MovieBrary
+Project for practising React, NextJS, Redux and Styled Components
